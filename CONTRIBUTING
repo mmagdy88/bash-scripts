@@ -1,0 +1,5 @@
+This is a personal toolkit of Bash scripts I use across different servers and projects.
+
+* You are welcome to fork the repo and adapt the scripts for your own use.
+* Pull requests are welcome for general improvements (code cleanup, documentation, new features).
+* Always test scripts in a safe environment before using in production.
