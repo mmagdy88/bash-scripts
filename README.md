@@ -19,6 +19,7 @@ Includes backup automation, service installation, and utility scripts.
 | `ms_installzookeeper.sh`          | Automated Zookeeper installation and configuration. |
 | `ms_remotebackup.sh`              | Remote database backup and cleanup after restore. |
 | `query_killer.sh`                 | Kill long-running MySQL queries above a defined threshold (n seconds). |
+| `bulk_change_emails.sh`           | A bash script to bulk change cPanel's email accounts' passwords. |
 
 ---
 
